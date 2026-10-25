@@ -1,0 +1,23 @@
+id,name,category,description,image,created_at
+1,Organic Tomatoes,Fresh Vegetables,"Fresh, ripe organic tomatoes",https://res.cloudinary.com/dvg5qjtel/image/upload/v1790927503/Fresh_Tomato_Pile_on_White_ixkt6m.png,2026-09-27 12:48:13.873697+00
+2,Carrots,Fresh Vegetables,"Fresh, crispy carrots",https://res.cloudinary.com/dvg5qjtel/image/upload/v1790927642/Fresh_Carrots_on_Cream_Background_zclcme.png,2026-09-27 12:48:13.873697+00
+5,Mushrooms,Fresh Vegetables,Fresh button mushrooms,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790946639/Fresh_White_Mushrooms_on_Cream_mdrpvc.png,2026-09-27 12:48:13.873697+00
+6,Fresh Apples,Fresh Fruits,Crisp red apples,https://res.cloudinary.com/dvg5qjtel/image/upload/v1791020513/Red_and_Yellow_Apple_Pile_xy67cr.png,2026-09-27 12:48:13.873697+00
+7,Bananas,Fresh Fruits,"Fresh, ripe bananas",https://res.cloudinary.com/dvg5qjtel/image/upload/v1790928785/Minimalist_Banana_Bunch_Still_Life_lef9sy.png,2026-09-27 12:48:13.873697+00
+8,Oranges,Fresh Fruits,Juicy fresh oranges,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790946256/Pyramid_of_Fresh_Oranges_fneyuq.png,2026-09-27 12:48:13.873697+00
+10,Milk,Dairy & Breakfast,Fresh pasteurized milk,https://res.cloudinary.com/dvg5qjtel/image/upload/v1791023247/Minimalist_Milk_Bottle_and_Glass_xkyupr.png,2026-10-01 14:24:45.878835+00
+11,Yogurt,Dairy & Breakfast,Creamy natural yogurt,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790946292/Hatsun_Thick_Tasty_Curd_Tub_nvk3ox.png,2026-09-27 12:48:13.873697+00
+22,Salt,Other Essentials,Iodized table salt,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790954342/Tata_Salt_Packet_on_Beige_Background_cqxmuo.png,2026-09-27 12:48:13.873697+00
+26,Coca-Cola,Beverages,Refreshing carbonated soft drink,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790946319/Coca-Cola_Bottle_and_Fizzy_Glass_djtn5w.png,2026-10-01 14:24:45.878835+00
+27,Pepsi,Beverages,Refreshing carbonated soft drink,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790946585/Pepsi_Bottle_and_Sparkling_Cola_Glass_j72b7q.png,2026-10-01 14:24:45.878835+00
+28,Bovonto,Beverages,Refreshing grape-flavoured soft drink,https://res.cloudinary.com/dvg5qjtel/image/upload/v1791020507/Bovonto_Cola_Bottle_and_Glass_bxfixs.png,2026-10-01 14:24:45.878835+00
+33,Eggs,Other Essentials,Fresh farm eggs,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790927666/Thirty_White_Eggs_in_Recycled_Carton_ca7rpu.png,2026-10-01 14:24:45.878835+00
+34,Fanta,Beverages,Refreshing orange-flavoured soft drink,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790946661/Fanta_Bottle_and_Fizzy_Orange_Glass_knokf9.png,2026-10-01 16:09:23.274461+00
+35,Sprite,Beverages,Refreshing lemon-lime soft drink,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790946573/Sprite_Bottle_and_Fizzy_Soda_Glass_cbvar1.png,2026-10-01 16:09:23.274461+00
+36,Dosa Batter,Batter & Ready Essentials,Fresh ready-to-use dosa batter,https://res.cloudinary.com/dvg5qjtel/image/upload/v1791020507/Tied_Bag_of_Creamy_Batter_lfge8y.png,2026-10-01 16:09:23.274461+00
+37,Onion,Fresh Vegetables,Fresh everyday cooking onions,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790927574/Red_Onion_Still_Life_Pile_f8f2ve.png,2026-10-01 16:12:53.451+00
+38,Potato,Fresh Vegetables,Fresh everyday cooking potatoes,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790927635/Rustic_Potato_Pile_on_Cream_Background_gybhxb.png,2026-10-01 16:12:53.451+00
+39,Milkybar,Chocolates,Creamy white chocolate bar,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790954339/Cadbury_Dairy_Milk_in_Purple_Wrapper_swwzjp.png,2026-10-02 16:00:02.733707+00
+40,5 Star,Chocolates,Rich caramel and chocolate bar,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790954334/Nestl%C3%A9_5Star_Chocolate_Bar_Package_dwj0gl.png,2026-10-02 16:00:02.733707+00
+41,Snickers,Chocolates,"Chocolate bar with peanuts, caramel and nougat",https://res.cloudinary.com/dvg5qjtel/image/upload/v1790954339/Classic_Snickers_Bar_on_Cream_Surface_dznedv.png,2026-10-02 16:00:02.733707+00
+42,KitKat,Chocolates,Crispy wafer covered in chocolate,https://res.cloudinary.com/dvg5qjtel/image/upload/v1790954240/KitKat_Bar_on_a_Minimal_Cream_Surface_uapcni.png,2026-10-02 16:00:02.733707+00
